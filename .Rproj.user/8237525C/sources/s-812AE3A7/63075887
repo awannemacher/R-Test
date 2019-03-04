@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551721096416.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "63075887",
+    "lastKnownWriteTime" : 1551721149,
+    "last_content_update" : 1551721149289,
+    "path" : "C:/Users/awannemacher/Downloads/R-Projects/R-Test/Scripts/Testing.R",
+    "project_path" : "Scripts/Testing.R",
+    "properties" : {
+        "cursorPosition" : "2,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
